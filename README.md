@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a passionate Software Engineer with a keen interest in JavaScript frameworks, particularly the MERN stack and PHP stack. I love building scalable and efficient web applications, and I'm always exploring new technologies to enhance my skills.<br>
+👋 Hi there! I'm a passionate Software Engineer with a keen interest in JavaScript frameworks and machine learning, particularly the MERN stack and PERN stack. I love building scalable and efficient web applications, and I'm always exploring new technologies to enhance my skills.<br>
 
 
 ## 🌐 Socials:
